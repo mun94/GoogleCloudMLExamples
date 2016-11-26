@@ -73,7 +73,7 @@ with file_io.FileIO(output_file, mode='w') as fout:
         
 
 ## note..   
-* `python -m module`  <-- Just because -m option runs on local machine didn't mean that it was able to run on cloud.
+ * `python -m module`  <-- Just because -m option runs on local machine didn't mean that it was able to run on cloud.
 
 
  * For more info refer to tensorflow file_io.py: [https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/lib/io/file_io.py](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/lib/io/file_io.py) 
